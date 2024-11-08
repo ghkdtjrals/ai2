@@ -1,3 +1,6 @@
+import streamlit as st
+import pandas as pd
+
 # 타이틀 설정
 st.title("Streamlit 기본 예제")
 
